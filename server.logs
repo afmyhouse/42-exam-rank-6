@@ -1,0 +1,777 @@
+add_client: fd=4, connected=0, MAX_CLIENTS=100
+add_client: added fd=4, connected=1
+add_client: fd=5, connected=1, MAX_CLIENTS=100
+add_client: added fd=5, connected=2
+add_client: fd=6, connected=2, MAX_CLIENTS=100
+add_client: added fd=6, connected=3
+add_client: fd=7, connected=3, MAX_CLIENTS=100
+add_client: added fd=7, connected=4
+add_client: fd=8, connected=4, MAX_CLIENTS=100
+add_client: added fd=8, connected=5
+add_client: fd=9, connected=5, MAX_CLIENTS=100
+add_client: added fd=9, connected=6
+add_client: fd=10, connected=6, MAX_CLIENTS=100
+add_client: added fd=10, connected=7
+add_client: fd=11, connected=7, MAX_CLIENTS=100
+add_client: added fd=11, connected=8
+add_client: fd=12, connected=8, MAX_CLIENTS=100
+add_client: added fd=12, connected=9
+add_client: fd=13, connected=9, MAX_CLIENTS=100
+add_client: added fd=13, connected=10
+add_client: fd=14, connected=10, MAX_CLIENTS=100
+add_client: added fd=14, connected=11
+add_client: fd=15, connected=11, MAX_CLIENTS=100
+add_client: added fd=15, connected=12
+add_client: fd=16, connected=12, MAX_CLIENTS=100
+add_client: added fd=16, connected=13
+add_client: fd=17, connected=13, MAX_CLIENTS=100
+add_client: added fd=17, connected=14
+add_client: fd=18, connected=14, MAX_CLIENTS=100
+add_client: added fd=18, connected=15
+add_client: fd=19, connected=15, MAX_CLIENTS=100
+add_client: added fd=19, connected=16
+add_client: fd=20, connected=16, MAX_CLIENTS=100
+add_client: added fd=20, connected=17
+add_client: fd=21, connected=17, MAX_CLIENTS=100
+add_client: added fd=21, connected=18
+add_client: fd=22, connected=18, MAX_CLIENTS=100
+add_client: added fd=22, connected=19
+add_client: fd=23, connected=19, MAX_CLIENTS=100
+add_client: added fd=23, connected=20
+add_client: fd=24, connected=20, MAX_CLIENTS=100
+add_client: added fd=24, connected=21
+add_client: fd=25, connected=21, MAX_CLIENTS=100
+add_client: added fd=25, connected=22
+add_client: fd=26, connected=22, MAX_CLIENTS=100
+add_client: added fd=26, connected=23
+add_client: fd=27, connected=23, MAX_CLIENTS=100
+add_client: added fd=27, connected=24
+add_client: fd=28, connected=24, MAX_CLIENTS=100
+add_client: added fd=28, connected=25
+add_client: fd=29, connected=25, MAX_CLIENTS=100
+add_client: added fd=29, connected=26
+add_client: fd=30, connected=26, MAX_CLIENTS=100
+add_client: added fd=30, connected=27
+add_client: fd=31, connected=27, MAX_CLIENTS=100
+add_client: added fd=31, connected=28
+add_client: fd=32, connected=28, MAX_CLIENTS=100
+add_client: added fd=32, connected=29
+add_client: fd=33, connected=29, MAX_CLIENTS=100
+add_client: added fd=33, connected=30
+add_client: fd=34, connected=30, MAX_CLIENTS=100
+add_client: added fd=34, connected=31
+add_client: fd=35, connected=31, MAX_CLIENTS=100
+add_client: added fd=35, connected=32
+add_client: fd=36, connected=32, MAX_CLIENTS=100
+add_client: added fd=36, connected=33
+add_client: fd=37, connected=33, MAX_CLIENTS=100
+add_client: added fd=37, connected=34
+add_client: fd=38, connected=34, MAX_CLIENTS=100
+add_client: added fd=38, connected=35
+add_client: fd=39, connected=35, MAX_CLIENTS=100
+add_client: added fd=39, connected=36
+add_client: fd=40, connected=36, MAX_CLIENTS=100
+add_client: added fd=40, connected=37
+add_client: fd=41, connected=37, MAX_CLIENTS=100
+add_client: added fd=41, connected=38
+add_client: fd=42, connected=38, MAX_CLIENTS=100
+add_client: added fd=42, connected=39
+add_client: fd=43, connected=39, MAX_CLIENTS=100
+add_client: added fd=43, connected=40
+add_client: fd=44, connected=40, MAX_CLIENTS=100
+add_client: added fd=44, connected=41
+add_client: fd=45, connected=41, MAX_CLIENTS=100
+add_client: added fd=45, connected=42
+add_client: fd=46, connected=42, MAX_CLIENTS=100
+add_client: added fd=46, connected=43
+add_client: fd=47, connected=43, MAX_CLIENTS=100
+add_client: added fd=47, connected=44
+add_client: fd=48, connected=44, MAX_CLIENTS=100
+add_client: added fd=48, connected=45
+add_client: fd=49, connected=45, MAX_CLIENTS=100
+add_client: added fd=49, connected=46
+add_client: fd=50, connected=46, MAX_CLIENTS=100
+add_client: added fd=50, connected=47
+add_client: fd=51, connected=47, MAX_CLIENTS=100
+add_client: added fd=51, connected=48
+add_client: fd=52, connected=48, MAX_CLIENTS=100
+add_client: added fd=52, connected=49
+add_client: fd=53, connected=49, MAX_CLIENTS=100
+add_client: added fd=53, connected=50
+add_client: fd=54, connected=50, MAX_CLIENTS=100
+add_client: added fd=54, connected=51
+add_client: fd=55, connected=51, MAX_CLIENTS=100
+add_client: added fd=55, connected=52
+add_client: fd=56, connected=52, MAX_CLIENTS=100
+add_client: added fd=56, connected=53
+add_client: fd=57, connected=53, MAX_CLIENTS=100
+add_client: added fd=57, connected=54
+add_client: fd=58, connected=54, MAX_CLIENTS=100
+add_client: added fd=58, connected=55
+add_client: fd=59, connected=55, MAX_CLIENTS=100
+add_client: added fd=59, connected=56
+add_client: fd=60, connected=56, MAX_CLIENTS=100
+add_client: added fd=60, connected=57
+add_client: fd=61, connected=57, MAX_CLIENTS=100
+add_client: added fd=61, connected=58
+add_client: fd=62, connected=58, MAX_CLIENTS=100
+add_client: added fd=62, connected=59
+add_client: fd=63, connected=59, MAX_CLIENTS=100
+add_client: added fd=63, connected=60
+add_client: fd=64, connected=60, MAX_CLIENTS=100
+add_client: added fd=64, connected=61
+add_client: fd=65, connected=61, MAX_CLIENTS=100
+add_client: added fd=65, connected=62
+add_client: fd=66, connected=62, MAX_CLIENTS=100
+add_client: added fd=66, connected=63
+add_client: fd=67, connected=63, MAX_CLIENTS=100
+add_client: added fd=67, connected=64
+add_client: fd=68, connected=64, MAX_CLIENTS=100
+add_client: added fd=68, connected=65
+add_client: fd=69, connected=65, MAX_CLIENTS=100
+add_client: added fd=69, connected=66
+add_client: fd=70, connected=66, MAX_CLIENTS=100
+add_client: added fd=70, connected=67
+add_client: fd=71, connected=67, MAX_CLIENTS=100
+add_client: added fd=71, connected=68
+add_client: fd=72, connected=68, MAX_CLIENTS=100
+add_client: added fd=72, connected=69
+add_client: fd=73, connected=69, MAX_CLIENTS=100
+add_client: added fd=73, connected=70
+add_client: fd=74, connected=70, MAX_CLIENTS=100
+add_client: added fd=74, connected=71
+add_client: fd=75, connected=71, MAX_CLIENTS=100
+add_client: added fd=75, connected=72
+add_client: fd=76, connected=72, MAX_CLIENTS=100
+add_client: added fd=76, connected=73
+add_client: fd=77, connected=73, MAX_CLIENTS=100
+add_client: added fd=77, connected=74
+add_client: fd=78, connected=74, MAX_CLIENTS=100
+add_client: added fd=78, connected=75
+add_client: fd=79, connected=75, MAX_CLIENTS=100
+add_client: added fd=79, connected=76
+add_client: fd=80, connected=76, MAX_CLIENTS=100
+add_client: added fd=80, connected=77
+add_client: fd=81, connected=77, MAX_CLIENTS=100
+add_client: added fd=81, connected=78
+add_client: fd=82, connected=78, MAX_CLIENTS=100
+add_client: added fd=82, connected=79
+add_client: fd=83, connected=79, MAX_CLIENTS=100
+add_client: added fd=83, connected=80
+add_client: fd=84, connected=80, MAX_CLIENTS=100
+add_client: added fd=84, connected=81
+add_client: fd=85, connected=81, MAX_CLIENTS=100
+add_client: added fd=85, connected=82
+add_client: fd=86, connected=82, MAX_CLIENTS=100
+add_client: added fd=86, connected=83
+add_client: fd=87, connected=83, MAX_CLIENTS=100
+add_client: added fd=87, connected=84
+add_client: fd=88, connected=84, MAX_CLIENTS=100
+add_client: added fd=88, connected=85
+add_client: fd=89, connected=85, MAX_CLIENTS=100
+add_client: added fd=89, connected=86
+add_client: fd=90, connected=86, MAX_CLIENTS=100
+add_client: added fd=90, connected=87
+add_client: fd=91, connected=87, MAX_CLIENTS=100
+add_client: added fd=91, connected=88
+add_client: fd=92, connected=88, MAX_CLIENTS=100
+add_client: added fd=92, connected=89
+add_client: fd=93, connected=89, MAX_CLIENTS=100
+add_client: added fd=93, connected=90
+add_client: fd=94, connected=90, MAX_CLIENTS=100
+add_client: added fd=94, connected=91
+add_client: fd=95, connected=91, MAX_CLIENTS=100
+add_client: added fd=95, connected=92
+add_client: fd=96, connected=92, MAX_CLIENTS=100
+add_client: added fd=96, connected=93
+add_client: fd=97, connected=93, MAX_CLIENTS=100
+add_client: added fd=97, connected=94
+add_client: fd=98, connected=94, MAX_CLIENTS=Max clients reached
+add_client: fd=4, connected=0, MAX_CLIENTS=100
+add_client: added fd=4, connected=1
+add_client: fd=5, connected=1, MAX_CLIENTS=100
+add_client: added fd=5, connected=2
+add_client: fd=6, connected=2, MAX_CLIENTS=100
+add_client: added fd=6, connected=3
+add_client: fd=7, connected=3, MAX_CLIENTS=100
+add_client: added fd=7, connected=4
+add_client: fd=8, connected=4, MAX_CLIENTS=100
+add_client: added fd=8, connected=5
+add_client: fd=9, connected=5, MAX_CLIENTS=100
+add_client: added fd=9, connected=6
+add_client: fd=10, connected=6, MAX_CLIENTS=100
+add_client: added fd=10, connected=7
+add_client: fd=11, connected=7, MAX_CLIENTS=100
+add_client: added fd=11, connected=8
+add_client: fd=12, connected=8, MAX_CLIENTS=100
+add_client: added fd=12, connected=9
+add_client: fd=13, connected=9, MAX_CLIENTS=100
+add_client: added fd=13, connected=10
+add_client: fd=14, connected=10, MAX_CLIENTS=100
+add_client: added fd=14, connected=11
+add_client: fd=15, connected=11, MAX_CLIENTS=100
+add_client: added fd=15, connected=12
+add_client: fd=16, connected=12, MAX_CLIENTS=100
+add_client: added fd=16, connected=13
+add_client: fd=17, connected=13, MAX_CLIENTS=100
+add_client: added fd=17, connected=14
+add_client: fd=18, connected=14, MAX_CLIENTS=100
+add_client: added fd=18, connected=15
+add_client: fd=19, connected=15, MAX_CLIENTS=100
+add_client: added fd=19, connected=16
+add_client: fd=20, connected=16, MAX_CLIENTS=100
+add_client: added fd=20, connected=17
+add_client: fd=21, connected=17, MAX_CLIENTS=100
+add_client: added fd=21, connected=18
+add_client: fd=22, connected=18, MAX_CLIENTS=100
+add_client: added fd=22, connected=19
+add_client: fd=23, connected=19, MAX_CLIENTS=100
+add_client: added fd=23, connected=20
+add_client: fd=24, connected=20, MAX_CLIENTS=100
+add_client: added fd=24, connected=21
+add_client: fd=25, connected=21, MAX_CLIENTS=100
+add_client: added fd=25, connected=22
+add_client: fd=26, connected=22, MAX_CLIENTS=100
+add_client: added fd=26, connected=23
+add_client: fd=27, connected=23, MAX_CLIENTS=100
+add_client: added fd=27, connected=24
+add_client: fd=28, connected=24, MAX_CLIENTS=100
+add_client: added fd=28, connected=25
+add_client: fd=29, connected=25, MAX_CLIENTS=100
+add_client: added fd=29, connected=26
+add_client: fd=30, connected=26, MAX_CLIENTS=100
+add_client: added fd=30, connected=27
+add_client: fd=31, connected=27, MAX_CLIENTS=100
+add_client: added fd=31, connected=28
+add_client: fd=32, connected=28, MAX_CLIENTS=100
+add_client: added fd=32, connected=29
+add_client: fd=33, connected=29, MAX_CLIENTS=100
+add_client: added fd=33, connected=30
+add_client: fd=34, connected=30, MAX_CLIENTS=100
+add_client: added fd=34, connected=31
+add_client: fd=35, connected=31, MAX_CLIENTS=100
+add_client: added fd=35, connected=32
+add_client: fd=36, connected=32, MAX_CLIENTS=100
+add_client: added fd=36, connected=33
+add_client: fd=37, connected=33, MAX_CLIENTS=100
+add_client: added fd=37, connected=34
+add_client: fd=38, connected=34, MAX_CLIENTS=100
+add_client: added fd=38, connected=35
+add_client: fd=39, connected=35, MAX_CLIENTS=100
+add_client: added fd=39, connected=36
+add_client: fd=40, connected=36, MAX_CLIENTS=100
+add_client: added fd=40, connected=37
+add_client: fd=41, connected=37, MAX_CLIENTS=100
+add_client: added fd=41, connected=38
+add_client: fd=42, connected=38, MAX_CLIENTS=100
+add_client: added fd=42, connected=39
+add_client: fd=43, connected=39, MAX_CLIENTS=100
+add_client: added fd=43, connected=40
+add_client: fd=44, connected=40, MAX_CLIENTS=100
+add_client: added fd=44, connected=41
+add_client: fd=45, connected=41, MAX_CLIENTS=100
+add_client: added fd=45, connected=42
+add_client: fd=46, connected=42, MAX_CLIENTS=100
+add_client: added fd=46, connected=43
+add_client: fd=47, connected=43, MAX_CLIENTS=100
+add_client: added fd=47, connected=44
+add_client: fd=48, connected=44, MAX_CLIENTS=100
+add_client: added fd=48, connected=45
+add_client: fd=49, connected=45, MAX_CLIENTS=100
+add_client: added fd=49, connected=46
+add_client: fd=50, connected=46, MAX_CLIENTS=100
+add_client: added fd=50, connected=47
+add_client: fd=51, connected=47, MAX_CLIENTS=100
+add_client: added fd=51, connected=48
+add_client: fd=52, connected=48, MAX_CLIENTS=100
+add_client: added fd=52, connected=49
+add_client: fd=53, connected=49, MAX_CLIENTS=100
+add_client: added fd=53, connected=50
+add_client: fd=54, connected=50, MAX_CLIENTS=100
+add_client: added fd=54, connected=51
+add_client: fd=55, connected=51, MAX_CLIENTS=100
+add_client: added fd=55, connected=52
+add_client: fd=56, connected=52, MAX_CLIENTS=100
+add_client: added fd=56, connected=53
+add_client: fd=57, connected=53, MAX_CLIENTS=100
+add_client: added fd=57, connected=54
+add_client: fd=58, connected=54, MAX_CLIENTS=100
+add_client: added fd=58, connected=55
+add_client: fd=59, connected=55, MAX_CLIENTS=100
+add_client: added fd=59, connected=56
+add_client: fd=60, connected=56, MAX_CLIENTS=100
+add_client: added fd=60, connected=57
+add_client: fd=61, connected=57, MAX_CLIENTS=100
+add_client: added fd=61, connected=58
+add_client: fd=62, connected=58, MAX_CLIENTS=100
+add_client: added fd=62, connected=59
+add_client: fd=63, connected=59, MAX_CLIENTS=100
+add_client: added fd=63, connected=60
+add_client: fd=64, connected=60, MAX_CLIENTS=100
+add_client: added fd=64, connected=61
+add_client: fd=65, connected=61, MAX_CLIENTS=100
+add_client: added fd=65, connected=62
+add_client: fd=66, connected=62, MAX_CLIENTS=100
+add_client: added fd=66, connected=63
+add_client: fd=67, connected=63, MAX_CLIENTS=100
+add_client: added fd=67, connected=64
+add_client: fd=68, connected=64, MAX_CLIENTS=100
+add_client: added fd=68, connected=65
+add_client: fd=69, connected=65, MAX_CLIENTS=100
+add_client: added fd=69, connected=66
+add_client: fd=70, connected=66, MAX_CLIENTS=100
+add_client: added fd=70, connected=67
+add_client: fd=71, connected=67, MAX_CLIENTS=100
+add_client: added fd=71, connected=68
+add_client: fd=72, connected=68, MAX_CLIENTS=100
+add_client: added fd=72, connected=69
+add_client: fd=73, connected=69, MAX_CLIENTS=100
+add_client: added fd=73, connected=70
+add_client: fd=74, connected=70, MAX_CLIENTS=100
+add_client: added fd=74, connected=71
+add_client: fd=75, connected=71, MAX_CLIENTS=100
+add_client: added fd=75, connected=72
+add_client: fd=76, connected=72, MAX_CLIENTS=100
+add_client: added fd=76, connected=73
+add_client: fd=77, connected=73, MAX_CLIENTS=100
+add_client: added fd=77, connected=74
+add_client: fd=78, connected=74, MAX_CLIENTS=100
+add_client: added fd=78, connected=75
+add_client: fd=79, connected=75, MAX_CLIENTS=100
+add_client: added fd=79, connected=76
+add_client: fd=80, connected=76, MAX_CLIENTS=100
+add_client: added fd=80, connected=77
+add_client: fd=81, connected=77, MAX_CLIENTS=100
+add_client: added fd=81, connected=78
+add_client: fd=82, connected=78, MAX_CLIENTS=100
+add_client: added fd=82, connected=79
+add_client: fd=83, connected=79, MAX_CLIENTS=100
+add_client: added fd=83, connected=80
+add_client: fd=84, connected=80, MAX_CLIENTS=100
+add_client: added fd=84, connected=81
+add_client: fd=85, connected=81, MAX_CLIENTS=100
+add_client: added fd=85, connected=82
+add_client: fd=86, connected=82, MAX_CLIENTS=100
+add_client: added fd=86, connected=83
+add_client: fd=87, connected=83, MAX_CLIENTS=100
+add_client: added fd=87, connected=84
+add_client: fd=88, connected=84, MAX_CLIENTS=100
+add_client: added fd=88, connected=85
+add_client: fd=89, connected=85, MAX_CLIENTS=100
+add_client: added fd=89, connected=86
+add_client: fd=90, connected=86, MAX_CLIENTS=100
+add_client: added fd=90, connected=87
+add_client: fd=91, connected=87, MAX_CLIENTS=100
+add_client: added fd=91, connected=88
+add_client: fd=92, connected=88, MAX_CLIENTS=100
+add_client: added fd=92, connected=89
+add_client: fd=93, connected=89, MAX_CLIENTS=100
+add_client: added fd=93, connected=90
+add_client: fd=94, connected=90, MAX_CLIENTS=100
+add_client: added fd=94, connected=91
+add_client: fd=95, connected=91, MAX_CLIENTS=100
+add_client: added fd=95, connected=92
+add_client: fd=96, connected=92, MAX_CLIENTS=100
+add_client: added fd=96, connected=93
+add_client: fd=97, connected=93, MAX_CLIENTS=100
+add_client: added fd=97, connected=94
+add_client: fd=98, connected=94, MAX_CLIENTS=100
+add_client: added fd=98, connected=95
+add_client: fd=99, connected=95, MAX_CLIENTS=100
+add_client: added fd=99, connected=96
+add_client: fd=100, connected=96, MAX_CLIENTS=100
+add_client: added fd=100, connected=97
+add_client: fd=101, connected=97, MAX_CLIENTS=100
+add_client: added fd=101, connected=98
+add_client: fd=102, connected=98, MAX_CLIENTS=100
+add_client: added fd=102, connected=99
+add_client: fd=103, connected=99, MAX_CLIENTS=100
+add_client: added fd=103, connected=100
+remove_client: fd=4, connected=100
+remove_client: removed fd=4, connected=99
+remove_client: fd=5, connected=99
+remove_client: removed fd=5, connected=98
+remove_client: fd=6, connected=98
+remove_client: removed fd=6, connected=97
+remove_client: fd=7, connected=97
+remove_client: removed fd=7, connected=96
+remove_client: fd=8, connected=96
+remove_client: removed fd=8, connected=95
+remove_client: fd=9, connected=95
+remove_client: removed fd=9, connected=94
+remove_client: fd=10, connected=94
+remove_client: removed fd=10, connected=93
+remove_client: fd=11, connected=93
+remove_client: removed fd=11, connected=92
+remove_client: fd=12, connected=92
+remove_client: removed fd=12, connected=91
+remove_client: fd=13, connected=91
+remove_client: removed fd=13, connected=90
+remove_client: fd=14, connected=90
+remove_client: removed fd=14, connected=89
+remove_client: fd=15, connected=89
+remove_client: removed fd=15, connected=88
+remove_client: fd=16, connected=88
+remove_client: removed fd=16, connected=87
+remove_client: fd=17, connected=87
+remove_client: removed fd=17, connected=86
+remove_client: fd=18, connected=86
+remove_client: removed fd=18, connected=85
+remove_client: fd=19, connected=85
+remove_client: removed fd=19, connected=84
+remove_client: fd=20, connected=84
+remove_client: removed fd=20, connected=83
+remove_client: fd=21, connected=83
+remove_client: removed fd=21, connected=82
+remove_client: fd=22, connected=82
+remove_client: removed fd=22, connected=81
+remove_client: fd=23, connected=81
+remove_client: removed fd=23, connected=80
+remove_client: fd=24, connected=80
+remove_client: removed fd=24, connected=79
+remove_client: fd=25, connected=79
+remove_client: removed fd=25, connected=78
+remove_client: fd=26, connected=78
+remove_client: removed fd=26, connected=77
+remove_client: fd=27, connected=77
+remove_client: removed fd=27, connected=76
+remove_client: fd=28, connected=76
+remove_client: removed fd=28, connected=75
+remove_client: fd=29, connected=75
+remove_client: removed fd=29, connected=74
+remove_client: fd=30, connected=74
+remove_client: removed fd=30, connected=73
+remove_client: fd=31, connected=73
+remove_client: removed fd=31, connected=72
+remove_client: fd=32, connected=72
+remove_client: removed fd=32, connected=71
+remove_client: fd=33, connected=71
+remove_client: removed fd=33, connected=70
+remove_client: fd=34, connected=70
+remove_client: removed fd=34, connected=69
+remove_client: fd=35, connected=69
+remove_client: removed fd=35, connected=68
+remove_client: fd=36, connected=68
+remove_client: removed fd=36, connected=67
+remove_client: fd=37, connected=67
+remove_client: removed fd=37, connected=66
+remove_client: fd=38, connected=66
+remove_client: removed fd=38, connected=65
+remove_client: fd=39, connected=65
+remove_client: removed fd=39, connected=64
+remove_client: fd=40, connected=64
+remove_client: removed fd=40, connected=63
+remove_client: fd=41, connected=63
+remove_client: removed fd=41, connected=62
+remove_client: fd=42, connected=62
+remove_client: removed fd=42, connected=61
+remove_client: fd=43, connected=61
+remove_client: removed fd=43, connected=60
+remove_client: fd=44, connected=60
+remove_client: removed fd=44, connected=59
+remove_client: fd=45, connected=59
+remove_client: removed fd=45, connected=58
+remove_client: fd=46, connected=58
+remove_client: removed fd=46, connected=57
+remove_client: fd=47, connected=57
+remove_client: removed fd=47, connected=56
+remove_client: fd=48, connected=56
+remove_client: removed fd=48, connected=55
+remove_client: fd=49, connected=55
+remove_client: removed fd=49, connected=54
+remove_client: fd=50, connected=54
+remove_client: removed fd=50, connected=53
+remove_client: fd=51, connected=53
+remove_client: removed fd=51, connected=52
+remove_client: fd=52, connected=52
+remove_client: removed fd=52, connected=51
+remove_client: fd=53, connected=51
+remove_client: removed fd=53, connected=50
+remove_client: fd=54, connected=50
+remove_client: removed fd=54, connected=49
+remove_client: fd=55, connected=49
+remove_client: removed fd=55, connected=48
+remove_client: fd=56, connected=48
+remove_client: removed fd=56, connected=47
+remove_client: fd=57, connected=47
+remove_client: removed fd=57, connected=46
+remove_client: fd=58, connected=46
+remove_client: removed fd=58, connected=45
+remove_client: fd=59, connected=45
+remove_client: removed fd=59, connected=44
+remove_client: fd=60, connected=44
+remove_client: removed fd=60, connected=43
+remove_client: fd=61, connected=43
+remove_client: removed fd=61, connected=42
+remove_client: fd=62, connected=42
+remove_client: removed fd=62, connected=41
+remove_client: fd=63, connected=41
+remove_client: removed fd=63, connected=40
+remove_client: fd=64, connected=40
+remove_client: removed fd=64, connected=39
+remove_client: fd=65, connected=39
+remove_client: removed fd=65, connected=38
+remove_client: fd=66, connected=38
+remove_client: removed fd=66, connected=37
+remove_client: fd=67, connected=37
+remove_client: removed fd=67, connected=36
+remove_client: fd=68, connected=36
+remove_client: removed fd=68, connected=35
+remove_client: fd=69, connected=35
+remove_client: removed fd=69, connected=34
+remove_client: fd=70, connected=34
+remove_client: removed fd=70, connected=33
+remove_client: fd=71, connected=33
+remove_client: removed fd=71, connected=32
+remove_client: fd=72, connected=32
+remove_client: removed fd=72, connected=31
+remove_client: fd=73, connected=31
+remove_client: removed fd=73, connected=30
+remove_client: fd=74, connected=30
+remove_client: removed fd=74, connected=29
+remove_client: fd=75, connected=29
+remove_client: removed fd=75, connected=28
+remove_client: fd=76, connected=28
+remove_client: removed fd=76, connected=27
+remove_client: fd=77, connected=27
+remove_client: removed fd=77, connected=26
+remove_client: fd=78, connected=26
+remove_client: removed fd=78, connected=25
+remove_client: fd=79, connected=25
+remove_client: removed fd=79, connected=24
+remove_client: fd=80, connected=24
+remove_client: removed fd=80, connected=23
+remove_client: fd=81, connected=23
+remove_client: removed fd=81, connected=22
+remove_client: fd=82, connected=22
+remove_client: removed fd=82, connected=21
+remove_client: fd=83, connected=21
+remove_client: removed fd=83, connected=20
+remove_client: fd=84, connected=20
+remove_client: removed fd=84, connected=19
+remove_client: fd=85, connected=19
+remove_client: removed fd=85, connected=18
+remove_client: fd=86, connected=18
+remove_client: removed fd=86, connected=17
+remove_client: fd=87, connected=17
+remove_client: removed fd=87, connected=16
+remove_client: fd=88, connected=16
+remove_client: removed fd=88, connected=15
+remove_client: fd=89, connected=15
+remove_client: removed fd=89, connected=14
+remove_client: fd=90, connected=14
+remove_client: removed fd=90, connected=13
+remove_client: fd=91, connected=13
+remove_client: removed fd=91, connected=12
+remove_client: fd=92, connected=12
+remove_client: removed fd=92, connected=11
+remove_client: fd=93, connected=11
+remove_client: removed fd=93, connected=10
+remove_client: fd=94, connected=10
+remove_client: removed fd=94, connected=9
+remove_client: fd=95, connected=9
+remove_client: removed fd=95, connected=8
+remove_client: fd=96, connected=8
+remove_client: removed fd=96, connected=7
+remove_client: fd=97, connected=7
+remove_client: removed fd=97, connected=6
+remove_client: fd=98, connected=6
+remove_client: removed fd=98, connected=5
+remove_client: fd=99, connected=5
+remove_client: removed fd=99, connected=4
+remove_client: fd=100, connected=4
+remove_client: removed fd=100, connected=3
+remove_client: fd=101, connected=3
+remove_client: removed fd=101, connected=2
+remove_client: fd=102, connected=2
+remove_client: removed fd=102, connected=1
+add_client: fd=4, connected=1, MAX_CLIENTS=100
+add_client: added fd=4, connected=2
+add_client: fd=5, connected=2, MAX_CLIENTS=100
+add_client: added fd=5, connected=3
+add_client: fd=6, connected=3, MAX_CLIENTS=100
+add_client: added fd=6, connected=4
+add_client: fd=7, connected=4, MAX_CLIENTS=100
+add_client: added fd=7, connected=5
+add_client: fd=8, connected=5, MAX_CLIENTS=100
+add_client: added fd=8, connected=6
+add_client: fd=9, connected=6, MAX_CLIENTS=100
+add_client: added fd=9, connected=7
+add_client: fd=10, connected=7, MAX_CLIENTS=100
+add_client: added fd=10, connected=8
+add_client: fd=11, connected=8, MAX_CLIENTS=100
+add_client: added fd=11, connected=9
+add_client: fd=12, connected=9, MAX_CLIENTS=100
+add_client: added fd=12, connected=10
+add_client: fd=13, connected=10, MAX_CLIENTS=100
+add_client: added fd=13, connected=11
+add_client: fd=14, connected=11, MAX_CLIENTS=100
+add_client: added fd=14, connected=12
+add_client: fd=15, connected=12, MAX_CLIENTS=100
+add_client: added fd=15, connected=13
+add_client: fd=16, connected=13, MAX_CLIENTS=100
+add_client: added fd=16, connected=14
+add_client: fd=17, connected=14, MAX_CLIENTS=100
+add_client: added fd=17, connected=15
+add_client: fd=18, connected=15, MAX_CLIENTS=100
+add_client: added fd=18, connected=16
+add_client: fd=19, connected=16, MAX_CLIENTS=100
+add_client: added fd=19, connected=17
+add_client: fd=20, connected=17, MAX_CLIENTS=100
+add_client: added fd=20, connected=18
+add_client: fd=21, connected=18, MAX_CLIENTS=100
+add_client: added fd=21, connected=19
+add_client: fd=22, connected=19, MAX_CLIENTS=100
+add_client: added fd=22, connected=20
+add_client: fd=23, connected=20, MAX_CLIENTS=100
+add_client: added fd=23, connected=21
+add_client: fd=24, connected=21, MAX_CLIENTS=100
+add_client: added fd=24, connected=22
+add_client: fd=25, connected=22, MAX_CLIENTS=100
+add_client: added fd=25, connected=23
+add_client: fd=26, connected=23, MAX_CLIENTS=100
+add_client: added fd=26, connected=24
+add_client: fd=27, connected=24, MAX_CLIENTS=100
+add_client: added fd=27, connected=25
+add_client: fd=28, connected=25, MAX_CLIENTS=100
+add_client: added fd=28, connected=26
+add_client: fd=29, connected=26, MAX_CLIENTS=100
+add_client: added fd=29, connected=27
+add_client: fd=30, connected=27, MAX_CLIENTS=100
+add_client: added fd=30, connected=28
+add_client: fd=31, connected=28, MAX_CLIENTS=100
+add_client: added fd=31, connected=29
+add_client: fd=32, connected=29, MAX_CLIENTS=100
+add_client: added fd=32, connected=30
+add_client: fd=33, connected=30, MAX_CLIENTS=100
+add_client: added fd=33, connected=31
+add_client: fd=34, connected=31, MAX_CLIENTS=100
+add_client: added fd=34, connected=32
+add_client: fd=35, connected=32, MAX_CLIENTS=100
+add_client: added fd=35, connected=33
+add_client: fd=36, connected=33, MAX_CLIENTS=100
+add_client: added fd=36, connected=34
+add_client: fd=37, connected=34, MAX_CLIENTS=100
+add_client: added fd=37, connected=35
+add_client: fd=38, connected=35, MAX_CLIENTS=100
+add_client: added fd=38, connected=36
+add_client: fd=39, connected=36, MAX_CLIENTS=100
+add_client: added fd=39, connected=37
+add_client: fd=40, connected=37, MAX_CLIENTS=100
+add_client: added fd=40, connected=38
+add_client: fd=41, connected=38, MAX_CLIENTS=100
+add_client: added fd=41, connected=39
+add_client: fd=42, connected=39, MAX_CLIENTS=100
+add_client: added fd=42, connected=40
+add_client: fd=43, connected=40, MAX_CLIENTS=100
+add_client: added fd=43, connected=41
+add_client: fd=44, connected=41, MAX_CLIENTS=100
+add_client: added fd=44, connected=42
+add_client: fd=45, connected=42, MAX_CLIENTS=100
+add_client: added fd=45, connected=43
+add_client: fd=46, connected=43, MAX_CLIENTS=100
+add_client: added fd=46, connected=44
+add_client: fd=47, connected=44, MAX_CLIENTS=100
+add_client: added fd=47, connected=45
+add_client: fd=48, connected=45, MAX_CLIENTS=100
+add_client: added fd=48, connected=46
+add_client: fd=49, connected=46, MAX_CLIENTS=100
+add_client: added fd=49, connected=47
+add_client: fd=50, connected=47, MAX_CLIENTS=100
+add_client: added fd=50, connected=48
+add_client: fd=51, connected=48, MAX_CLIENTS=100
+add_client: added fd=51, connected=49
+add_client: fd=52, connected=49, MAX_CLIENTS=100
+add_client: added fd=52, connected=50
+add_client: fd=53, connected=50, MAX_CLIENTS=100
+add_client: added fd=53, connected=51
+add_client: fd=54, connected=51, MAX_CLIENTS=100
+add_client: added fd=54, connected=52
+add_client: fd=55, connected=52, MAX_CLIENTS=100
+add_client: added fd=55, connected=53
+add_client: fd=56, connected=53, MAX_CLIENTS=100
+add_client: added fd=56, connected=54
+add_client: fd=57, connected=54, MAX_CLIENTS=100
+add_client: added fd=57, connected=55
+add_client: fd=58, connected=55, MAX_CLIENTS=100
+add_client: added fd=58, connected=56
+add_client: fd=59, connected=56, MAX_CLIENTS=100
+add_client: added fd=59, connected=57
+add_client: fd=60, connected=57, MAX_CLIENTS=100
+add_client: added fd=60, connected=58
+add_client: fd=61, connected=58, MAX_CLIENTS=100
+add_client: added fd=61, connected=59
+add_client: fd=62, connected=59, MAX_CLIENTS=100
+add_client: added fd=62, connected=60
+add_client: fd=63, connected=60, MAX_CLIENTS=100
+add_client: added fd=63, connected=61
+add_client: fd=64, connected=61, MAX_CLIENTS=100
+add_client: added fd=64, connected=62
+add_client: fd=65, connected=62, MAX_CLIENTS=100
+add_client: added fd=65, connected=63
+add_client: fd=66, connected=63, MAX_CLIENTS=100
+add_client: added fd=66, connected=64
+add_client: fd=67, connected=64, MAX_CLIENTS=100
+add_client: added fd=67, connected=65
+add_client: fd=68, connected=65, MAX_CLIENTS=100
+add_client: added fd=68, connected=66
+add_client: fd=69, connected=66, MAX_CLIENTS=100
+add_client: added fd=69, connected=67
+add_client: fd=70, connected=67, MAX_CLIENTS=100
+add_client: added fd=70, connected=68
+add_client: fd=71, connected=68, MAX_CLIENTS=100
+add_client: added fd=71, connected=69
+add_client: fd=72, connected=69, MAX_CLIENTS=100
+add_client: added fd=72, connected=70
+add_client: fd=73, connected=70, MAX_CLIENTS=100
+add_client: added fd=73, connected=71
+add_client: fd=74, connected=71, MAX_CLIENTS=100
+add_client: added fd=74, connected=72
+add_client: fd=75, connected=72, MAX_CLIENTS=100
+add_client: added fd=75, connected=73
+add_client: fd=76, connected=73, MAX_CLIENTS=100
+add_client: added fd=76, connected=74
+add_client: fd=77, connected=74, MAX_CLIENTS=100
+add_client: added fd=77, connected=75
+add_client: fd=78, connected=75, MAX_CLIENTS=100
+add_client: added fd=78, connected=76
+add_client: fd=79, connected=76, MAX_CLIENTS=100
+add_client: added fd=79, connected=77
+add_client: fd=80, connected=77, MAX_CLIENTS=100
+add_client: added fd=80, connected=78
+add_client: fd=81, connected=78, MAX_CLIENTS=100
+add_client: added fd=81, connected=79
+add_client: fd=82, connected=79, MAX_CLIENTS=100
+add_client: added fd=82, connected=80
+add_client: fd=83, connected=80, MAX_CLIENTS=100
+add_client: added fd=83, connected=81
+add_client: fd=84, connected=81, MAX_CLIENTS=100
+add_client: added fd=84, connected=82
+add_client: fd=85, connected=82, MAX_CLIENTS=100
+add_client: added fd=85, connected=83
+add_client: fd=86, connected=83, MAX_CLIENTS=100
+add_client: added fd=86, connected=84
+add_client: fd=87, connected=84, MAX_CLIENTS=100
+add_client: added fd=87, connected=85
+add_client: fd=88, connected=85, MAX_CLIENTS=100
+add_client: added fd=88, connected=86
+add_client: fd=89, connected=86, MAX_CLIENTS=100
+add_client: added fd=89, connected=87
+add_client: fd=90, connected=87, MAX_CLIENTS=100
+add_client: added fd=90, connected=88
+add_client: fd=91, connected=88, MAX_CLIENTS=100
+add_client: added fd=91, connected=89
+add_client: fd=92, connected=89, MAX_CLIENTS=100
+add_client: added fd=92, connected=90
+add_client: fd=93, connected=90, MAX_CLIENTS=100
+add_client: added fd=93, connected=91
+add_client: fd=94, connected=91, MAX_CLIENTS=100
+add_client: added fd=94, connected=92
+add_client: fd=95, connected=92, MAX_CLIENTS=100
+add_client: added fd=95, connected=93
+add_client: fd=96, connected=93, MAX_CLIENTS=100
+add_client: added fd=96, connected=94
+add_client: fd=97, connected=94, MAX_CLIENTS=100
+add_client: added fd=97, connected=95
+add_client: fd=98, connected=95, MAX_CLIENTS=100
+Max clients reached
