@@ -5,7 +5,7 @@ import sys
 
 HOST = "127.0.0.1"
 PORT = 4242  # Match test invocation
-MAX_CLIENTS = 100
+MAX_CLIENTS = 5
 
 def create_client():
     print("create_client: attempting connection")
@@ -162,10 +162,10 @@ def main():
         PORT = int(sys.argv[1])
     print(f"Testing server at {HOST}:{PORT}")
     results = []
-    # results.append(test_max_clients())
-    # print("Please restart the server for Test 2 if it was stopped")
-    # input("Press Enter when ready...")
-    # results.append(test_client_count_after_disconnect())
+    results.append(test_max_clients())
+    print("Please restart the server for Test 2 if it was stopped")
+    input("Press Enter when ready...")
+    results.append(test_client_count_after_disconnect())
     results.append(test_shutdown())
     print("\n=== Test Summary ===")
     for i, passed in enumerate(results, 1):

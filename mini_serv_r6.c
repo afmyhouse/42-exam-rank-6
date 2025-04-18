@@ -87,7 +87,7 @@ int main(int argc, char **argv)
 		ft_error("Fatal error");
 
 	const int BUFFER_WRITE = 100;
-	const int BUFFER_READ = 1024;
+	const int BUFFER_READ = 16*1024;
 	char buffer_write[BUFFER_WRITE];
 	char buffer_read[BUFFER_READ];
 	fd_set rfds, wfds, afds;

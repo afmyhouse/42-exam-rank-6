@@ -20,7 +20,7 @@ trap cleanup INT TERM
 sleep 1
 
 # 📡 Connect 3 clients via `nc`
-for i in 1 2 3 4; do
+for i in 1 2 3 4 5; do
 	nc 127.0.0.1 $PORT > client_$i.log &
 	eval CLIENT${i}_PID=$!
 	echo "Connected client $i (PID $(eval echo \$CLIENT${i}_PID))"
